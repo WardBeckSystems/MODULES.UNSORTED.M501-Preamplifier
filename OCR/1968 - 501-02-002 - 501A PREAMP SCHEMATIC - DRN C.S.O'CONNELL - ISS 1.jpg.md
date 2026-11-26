@@ -38,7 +38,7 @@ Wiki page: [M501](../../../../PAGES/M501.md)
 - **Title block:** (188, 56)–(385, 99) mm: DRN CASOCONNELL · FIMISH · WARD BECK · SYSTEMS Lid · DATE 24 May 68 · CHKD · MATERIAL · 501A PREAMP SCHEMATIC · SCALE · TOLS · GIVEN
 - **Wiring (first pass):** 79 connected wire groups from 493 runs; labelled ends: 141 mm → 2N4037; 120 mm → TOLS, 501A, SPECIHEDNGLES; 102 mm → Koz; 47 mm → WARD, BECK; 37 mm → 60-3
 
-Every curve, box, word and wire group: [1968 - 501-02-002 - 501A PREAMP SCHEMATIC - DRN C.S.O'CONNELL - ISS 1 (traced).json](../SCHEMATICS/1968%20-%20501-02-002%20-%20501A%20PREAMP%20SCHEMATIC%20-%20DRN%20C.S.O%27CONNELL%20-%20ISS%201%20(traced).json) (the CAD file: `1968 - 501-02-002 - 501A PREAMP SCHEMATIC - DRN C.S.O'CONNELL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - 501-02-002 - 501A PREAMP SCHEMATIC - DRN C.S.O'CONNELL - ISS 1 (traced).json](../SCHEMATICS/1968%20-%20501-02-002%20-%20501A%20PREAMP%20SCHEMATIC%20-%20DRN%20C.S.O%27CONNELL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1968 - 501-02-002 - 501A PREAMP SCHEMATIC - DRN C.S.O'CONNELL - ISS 1 (traced).dxf`).
 
 ## Full text
 

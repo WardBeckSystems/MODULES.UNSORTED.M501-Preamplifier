@@ -39,7 +39,7 @@ Wiki page: [M501](../../../../PAGES/M501.md)
 - **Title block:** (188, 56)–(385, 98) mm: FINISH · DRN C.S.OCONNELL · WARD BECK_SYSTEMS Lid. · DATE | 24 MAY-68 · CHKD · MATERIAL · 50IA PREAMP SCHEMATIC · SCALE · TOLsEREE DEC PLACES
 - **Wiring (first pass):** 100 connected wire groups from 614 runs; labelled ends: 152 mm → 2n4037; 93 mm → 50IA, SPUEMEDNGLES, TOLsEREE; 76 mm → CRZ, IN2o70, ZN3053, Koz; 49 mm → 470, 212; 34 mm → 300, 680p <
 
-Every curve, box, word and wire group: [1968 - 501-02-002 - 501A PREAMP SCHEMATIC - DRN C.S. O'CONNELL - ISS 1 (traced).json](../SCHEMATICS/1968%20-%20501-02-002%20-%20501A%20PREAMP%20SCHEMATIC%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%201%20(traced).json) (the CAD file: `1968 - 501-02-002 - 501A PREAMP SCHEMATIC - DRN C.S. O'CONNELL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - 501-02-002 - 501A PREAMP SCHEMATIC - DRN C.S. O'CONNELL - ISS 1 (traced).json](../SCHEMATICS/1968%20-%20501-02-002%20-%20501A%20PREAMP%20SCHEMATIC%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1968 - 501-02-002 - 501A PREAMP SCHEMATIC - DRN C.S. O'CONNELL - ISS 1 (traced).dxf`).
 
 ## Full text
 
