@@ -1,5 +1,5 @@
 # 1958 - 501-02-002 - 501A PREAMP SCHEMATIC - DRN O'CONNELL handwritten, uncertain - ISS 1.jpg
-Wiki page: [M501](../../../../PAGES/M501.md)
+Wiki page: [M501](../)
 
 
 - **Year:** 1958 (title block date)

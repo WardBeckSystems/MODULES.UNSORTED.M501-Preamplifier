@@ -1,5 +1,5 @@
 # 1968 - 501-02-002 - 501A PREAMP SCHEMATIC - DRN C.S. O'CONNELL - ISS 1.jpg
-Wiki page: [M501](../../../../PAGES/M501.md)
+Wiki page: [M501](../)
 
 
 - **Year:** 1968 (title block date)

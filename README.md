@@ -1,6 +1,6 @@
 # M501 Preamplifier · Input Pre Amps
 
-Ward-Beck Systems M501, 1958|-9. Wiki page: [M501 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M501.html)
+Ward-Beck Systems M501, 1958|-9. Wiki page: [M501 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M501-Preamplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
